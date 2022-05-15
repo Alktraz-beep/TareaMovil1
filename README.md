@@ -1,6 +1,8 @@
 # cardsflutter
 
-A new Flutter project.
+Hecho por:
+Ramírez Viramontes Josue Yafte
+
 
 ## Getting Started
 
