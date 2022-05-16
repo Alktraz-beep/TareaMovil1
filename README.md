@@ -1,9 +1,9 @@
 # cardsflutter
 
 Hecho por:
-Bustamante Valdez Jessica Dayana
-Díaz García Porfirio
-Ramírez Viramontes Josue Yafte
+- Bustamante Valdez Jessica Dayana
+- Díaz García Porfirio
+- Ramírez Viramontes Josue Yafte
 
 
 ## Getting Started
